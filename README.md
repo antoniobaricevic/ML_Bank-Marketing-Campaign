@@ -17,11 +17,9 @@ This dataset is public available for research. The details are described in [Mor
 6. Decision Tree Classification
 7. Random Forest Classification
 8. XGBoost
-9. Artificial Neural Networks [Work in progress]
+9. Artificial Neural Networks
 
-#### Future plans:
-- Hyperparameter Tuning
-- Feature Importances
+#### Future Model Improvements:
 - Balanced data set
 
 #### Link to Tableau Visualizations:
