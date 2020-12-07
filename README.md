@@ -1,5 +1,5 @@
 # Machine Learning - Bank Marketing Campaign
-Data analysis and ML models for Bank Marketing Campaign
+Data analysis and ML models for Bank Marketing Campaign - Classification
 
 #### Data set information: 
 
@@ -19,8 +19,13 @@ This dataset is public available for research. The details are described in [Mor
 8. XGBoost
 9. Artificial Neural Networks
 
-#### Future Model Improvements:
+#### Experiments:
 - Balanced data set
+- Smaller data set (with 10% of the examples - randomly selected)
+
+#### Conclusions:
+- During analysis, assumptions and insights from the original version are confirmed in both smaller and balanced data set. Moreover, the differences are clearer.
+- Best performances: Kernel SVM, XGBoost, Artifical Nerural Network.
 
 #### Link to Tableau Visualizations:
 - https://public.tableau.com/profile/antonio87#!/vizhome/DepositsbyJobandBalance/DepositsbyJobandBalance
